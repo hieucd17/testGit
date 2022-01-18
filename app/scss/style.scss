@@ -1,0 +1,11 @@
+@forward "./global";
+@forward "./components/";
+
+body {
+   background-color: $main-color;
+   font-size: 2rem;
+}
+
+p {
+   font-size: 2rem;
+}

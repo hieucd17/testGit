@@ -1,0 +1,28 @@
+
+$body-bg: #fff;
+$main-color: #f54749;
+$txt-color: #000;
+$txt-white: #ffff;
+
+$header-height: 128px;
+$header-shirk-height: 98px;
+$mobile-height: 90px;
+$mobile-shirk-height: 50px;
+
+$mobile-width: 736px;
+$tablet-width: 1024px;
+$border-radios: 2rem;
+
+$font-family: 'Roboto Condensed', sans-serif;
+
+$bg-linear: linear-gradient(
+    180deg,
+    #fef5f6 75.52%,
+    rgba(255, 255, 255, 0) 100%
+);
+
+$bg-linear-reverse: linear-gradient(
+    0deg,
+    #fef5f6 76.07%,
+    rgba(255, 255, 255, 0) 98.61%
+);
